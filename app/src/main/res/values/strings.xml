@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DistanceUs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="distanceus">DistanceUs</string>
+    <string name="distance_to">расстояние до:</string>
+    <string name="to_you">тебя</string>
+    <string name="km">км</string>
+    <string name="location_perms">Разрешить приложению доступ к геолокации?</string>
+</resources>
